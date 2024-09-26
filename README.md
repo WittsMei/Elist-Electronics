@@ -35,7 +35,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 After peaking in late 2020, the company's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and average order value (AOV) by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/WittsMei/Elist-Electronics/blob/main/Elist%20Electronics.pbix)
 
 ![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/c20e3ed3-2a31-43e7-9edb-1eda1d087dcb)
 

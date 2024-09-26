@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-An interactive PowerBI dashboard can be downloaded [here.]([https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix](https://github.com/WittsMei/Elist-Electronics/blob/main/Elist%20Electronics.pbix))
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/WittsMei/Elist-Electronics/blob/main/Elist%20Electronics.pbix)
 
 The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
